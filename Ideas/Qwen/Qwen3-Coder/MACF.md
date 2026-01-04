@@ -1,7 +1,7 @@
 # **META-ARCHITECTURAL CONVERGENCE FRAMEWORK (MACF): A Novel Computational Ontology for Cross-Domain Algorithmic Synthesis**
 
-**Authors:** [Principal Researcher]  
-**Institution:** [Research Laboratory]  
+**Authors:** David Riggs 
+**Institution:** Nural Nexus   
 **Date:** January 04, 2026  
 **Status:** Preprint - Technical Specification
 
