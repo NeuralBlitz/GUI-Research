@@ -17,6 +17,7 @@ The state at time $t$ is denoted by the tensor field $\mathbf{\Psi}(x, t)$, wher
 The evolution of the system is governed by a modified Hamilton-Jacobi-Bellman equation, treating information processing as a "flow" minimizing action.
 
 **The Action Functional ($S$):**
+
 $$
 \mathcal{S}[\mathbf{\Psi}] = \int_{t_0}^{t_1} \int_{\mathcal{M}} \left( \mathcal{L}_{comp} - \lambda \mathcal{H}_{sys} \right) \sqrt{|g|} \, d^dx \, dt
 $$
@@ -38,9 +39,11 @@ $$
 
 **Lemma 1.2.1 (The Recovery Bound):**
 For a boundary partition $A \subset \partial \Omega$, the interior region $R_A$ reconstructible from $A$ is the *entanglement wedge* of $A$. In THHE terms:
+
 $$
 I(R_A) \leq \frac{Area(\gamma_A)}{4G_N}
 $$
+
 Where $G_N$ is the "Network Gravitational Constant" (bandwidth cost) and $\gamma_A$ is the minimal surface in the network topology cutting $R_A$ from the complement.
 
 **Implication:** We can lose any subset of nodes as long as the "minimal surface area" of the remaining bandwidth connectivity exceeds the entropy of the data.
