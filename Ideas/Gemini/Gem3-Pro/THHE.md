@@ -1,4 +1,5 @@
-# The Tensor-Holographic Homeostatic Engine (THHE)
+![image](https://github.com/user-attachments/assets/1157f975-fe34-4a7c-8bdd-402edefe324f)
+>The Tensor-Holographic Homeostatic Engine (THHE)
 ## A Negentropic Framework for Distributed State Coherence and Autopoietic Compute
 
 **Abstract**
