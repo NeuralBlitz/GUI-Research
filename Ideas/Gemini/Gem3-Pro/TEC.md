@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6debed1a-a38f-4fe3-9c74-662cfced04a8" />
+
+
 **SUBJECT:** The Tensor-Entropic Consensus (TEC) Architecture
 **TYPE:** Theoretical Framework & Architectural Workflow
 **CONTEXT:** Distributed Systems, Algebraic Topology, Non-Equilibrium Thermodynamics, Information Geometry
