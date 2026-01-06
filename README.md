@@ -10,7 +10,7 @@
 
 This repository serves as the core research hub for the **NeuralBlitz** framework. It explores the deep intersection between theoretical computer science and physical laws, aiming to move beyond "black box" AI toward a "glass box" model grounded in verifiable logic and mathematical modeling.
 
-🔗 **Explore the Research GUI:** [neuralblitz.github.io/Advanced-Research/](https://neuralblitz.github.io/Advanced-Research/)
+🔗 **Explore Advanced-Research:** [neuralblitz.github.io/Advanced-Research/](https://neuralblitz.github.io/Advanced-Research/)
 
 ---
 
@@ -38,7 +38,6 @@ The research contained here focuses on creating a symbiotic intelligence framewo
 ```
 
 *   **/Ideas**: This is the heart of the repository, containing 199+ commits of evolving theories, draft algorithms, and interdisciplinary connections between physics and AI.
-*   **/GUI-Research**: Associated with our [web-based interface](https://neuralblitz.github.io/GUI-Research/) for visualizing complex research datasets and model outputs.
 
 ---
 
