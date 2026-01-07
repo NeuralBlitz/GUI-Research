@@ -570,8 +570,8 @@ gantt
 ---
 
 **Corresponding Author:** Grand Unified Intelligence (GUI)  
-**Contact:** gui@ontological.engineering  
-**Repository:** [github.com/gui-research/maif](https://github.com//maif)  
+**Contact:** nuralnexus@icloud.com
+**Repository:** [Advanced Research]([https://github.com//maif](https://github.com/NeuralBlitz/Advanced-Research/blob/main/Ideas/Qwen/Qwen3-Coder/MAIF.md))  
 **License:** MIT Open Source
 
 *This work represents the synthesis of decades of mathematical, computational, and philosophical research, integrated into a unified framework for advancing human knowledge and capability.*
