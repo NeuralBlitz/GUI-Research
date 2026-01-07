@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/462e80ca-1af2-44c5-8b57-bb44cdf9db0f" />
+
+
 # The Morphic-Resonance Ledger: A Homotopic Tensor Framework for Self-Organizing Distributed Consensus
 
 **Abstract:**

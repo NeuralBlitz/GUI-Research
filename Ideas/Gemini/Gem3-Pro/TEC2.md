@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11c6bcb5-8375-4e6a-8c89-4749b5b3ca5c" />
+
+
 # Topological Entanglement Consensus (TEC): A Homological Framework for Byzantine-Resilient Distributed State Synchronization
 
 ## Abstract

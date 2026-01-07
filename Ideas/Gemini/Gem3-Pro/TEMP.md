@@ -1,4 +1,7 @@
-# Title: The Tensor-Entropic Manifold Protocol (TEMP): A Homotopic Framework for Thermodynamically Bound Distributed Consensus
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0337c433-ee06-4d18-b97f-4bff73b10abc" />
+
+
+# The Tensor-Entropic Manifold Protocol (TEMP): A Homotopic Framework for Thermodynamically Bound Distributed Consensus
 
 **Abstract**
 We present the **Tensor-Entropic Manifold Protocol (TEMP)**, a novel architectural framework unifying **Information Geometry**, **Non-Equilibrium Thermodynamics**, and **Homotopy Type Theory (HoTT)** to solve the Scalability-Security-Decentralization trilemma in distributed systems. Unlike Proof-of-Work (PoW) or Proof-of-Stake (PoS), TEMP utilizes a **Proof-of-Negentropy (PoN)** mechanism. Here, valid state transitions are defined as those that minimize the variational free energy of the global system topology, formally modeled as Ricci flow on a discrete Riemannian manifold. We demonstrate that consensus is isomorphic to the thermalization of a lattice gauge theory, guaranteeing asymptotic consistency through topological invariants.

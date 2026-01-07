@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f752c465-f1be-46f9-a9f4-6040f74b6a8e" />
+
+
 # The Tensor-Entropic Consensus Engine (TECE): A Holographic Morphogenesis Architecture for Distributed State Convergence
 
 **Abstract**
