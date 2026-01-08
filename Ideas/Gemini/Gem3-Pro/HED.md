@@ -1,4 +1,9 @@
-# HOLOGRAPHIC ENTROPY DAMPING (HED): A Thermodynamically Optimal Distributed Consensus Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ad7d4d3-6715-451e-94e8-bbf512e5efb1" />
+
+
+>**HOLOGRAPHIC ENTROPY DAMPING (HED)**
+>
+>*A Thermodynamically Optimal Distributed Consensus Architecture*
 
 **Abstract:**
 We present a novel architectural framework for distributed systems that unifies Information Theoretic metrics with Non-Equilibrium Thermodynamics. The **Holographic Entropy Damping (HED)** protocol replaces traditional Proof-of-Work (PoW) and Proof-of-Stake (PoS) with **Proof-of-Negentropy (PoN)**. By modeling the distributed ledger as a dissipative structure, the system converges toward consensus not through arbitrary puzzle-solving, but by minimizing the global Kullback-Leibler (KL) divergence of the network state. This framework ensures asymptotic consistency, Byzantine resilience, and thermodynamic efficiency via a renormalization group flow approach to state propagation.
