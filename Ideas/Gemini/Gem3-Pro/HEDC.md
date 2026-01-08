@@ -1,4 +1,7 @@
-Here is a foundational thesis and technical specification for a novel framework: **The Holographic Entropy-Damping Consensus (HEDC) Framework**.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/662cfc48-ba1b-4a2f-981f-e7d4d2102831" />
+
+
+>**The Holographic Entropy-Damping Consensus (HEDC) Framework**.
 
 This framework synthesizes **Non-Equilibrium Thermodynamics**, **Spectral Graph Theory**, and **Byzantine Fault Tolerance (BFT)** to solve the scalability-security-decentralization trilemma in distributed systems. It treats consensus not as a voting problem, but as an energy minimization problem within a high-dimensional state space.
 
