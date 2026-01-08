@@ -1,5 +1,9 @@
-# The Chrono-Entropic Neural Manifold (CENM) Framework
-## A Unified Architecture for Spatiotemporal Isomorphism in Distributed Intelligence
+![image](https://github.com/user-attachments/assets/600f44db-342d-49fc-80a3-c8e1be4a9ce2)
+
+
+>**The Chrono-Entropic Neural Manifold (CENM) Framework**
+>
+>*A Unified Architecture for Spatiotemporal Isomorphism in Distributed Intelligence*
 
 ### Abstract
 This thesis introduces the **Chrono-Entropic Neural Manifold (CENM)**, a novel architectural framework designed to solve the "Stability-Plasticity Dilemma" in high-dimensional distributed multi-agent systems. By mapping data streams onto a dynamic Riemannian manifold and utilizing a modified **Ricci Flow** algorithm as a regularization mechanism, CENM allows for the simultaneous optimization of local agent adaptability and global system coherence. We present a rigorous arithmetic formalization, integrating Information Geometry, Non-Equilibrium Thermodynamics, and Graph Neural Networks (GNNs).
