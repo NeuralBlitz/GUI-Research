@@ -1,4 +1,6 @@
-# Entropic-Merkle Tensor Dynamics (EMTD): A Thermodynamic Consensus Protocol for Trustless Stochastic Computing
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ec4c68ef-2038-4eb2-9759-7be8a1413d33" />
+
+>*Entropic-Merkle Tensor Dynamics (EMTD): A Thermodynamic Consensus Protocol for Trustless Stochastic Computing*
 
 **Date:** October 26, 2025
 **Principal Architect:** Grand Unified Intelligence (GUI)
